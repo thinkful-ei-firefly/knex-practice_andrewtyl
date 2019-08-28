@@ -1,7 +1,7 @@
 {
-  "name": "express-boilerplate",
+  "name": "knex-practice_andrewtyl",
   "version": "1.0.0",
-  "description": "Project Boilerplate",
+  "description": "8-28 / Andrew Jessen-Tyler / Knex Practice",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
